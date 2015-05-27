@@ -1,4 +1,4 @@
 # SvgSprites
-Installation
-  sudo npm install
-  gulp
+Installation:<br>
+  `sudo npm install`<br>
+  `gulp`<br>
